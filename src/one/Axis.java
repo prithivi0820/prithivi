@@ -1,11 +1,13 @@
 package one;
 
-public interface Axis {
-	public abstract void saving ();
-	void fixed();
-	void persantege();
-	
-	
+public class Axis {
+	private static void username() {
+		System.out.println("username");
+
+	}
+	public static void main(String[] args) {
+		username();
+	}
 	
 	
 	
