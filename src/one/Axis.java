@@ -1,9 +1,13 @@
 package one;
 
-public interface Axis {
-	public abstract void saving ();
-	void fixed();
-	void persantege();
+public class Axis {
+	public static void password() {
+System.out.println("password");
+
+	}
+public static void main(String[] args) {
+	password();
+}
 	
 	
 	
